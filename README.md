@@ -1,4 +1,4 @@
-# FaceRecon-Efficient-Face-Matching-and-Identification
+# FaceMatcher
 
 
 This project demonstrates how to use OpenCV and the `face_recognition` library to detect and recognize faces in images. The system allows users to create a face collection, add detected faces, match faces with a target image, and visualize the results by drawing bounding boxes around the faces.
@@ -31,8 +31,8 @@ To get started with the project, follow these simple steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/MahmoudSaad21/FaceRecon-Efficient-Face-Matching-and-Identification.git
-   cd FaceRecon-Efficient-Face-Matching-and-Identification
+   git clone https://github.com/MahmoudSaad21/FaceMatcher.git
+   cd FaceMatcher
    ```
 
 2. **Set up a virtual environment (optional but recommended)**:
